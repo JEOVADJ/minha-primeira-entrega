@@ -36,6 +36,8 @@ Neste curso você faz, de verdade, o caminho de toda entrega das disciplinas: um
 
 ---
 
+https://jeovadj.github.io/minha-primeira-entrega/
+
 ## 👤 Sobre mim
 
 <img src="https://maristelaoliveira.github.io/curso-github/assets/memoji/acenando.webp" width="70" align="right" alt="">
